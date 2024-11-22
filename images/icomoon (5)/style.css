@@ -14,3 +14,15 @@ Single-colored icons can be modified like so:
   color: red;
 }
 ========================================== */
+
+.icon-email-black-18dp-1 {
+  width: 0.75em;
+}
+
+.icon-click {
+  width: 1.25em;
+}
+
+.icon-phone-black-18dp-1 {
+  width: 0.75em;
+}
