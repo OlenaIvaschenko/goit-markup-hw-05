@@ -498,12 +498,14 @@ a {
   gap: 24px;
 }
  
- */
+ 
 /* Footer socials */
+
 .socials-link-footer:hover,
 .socials-link-footer:focus {
   background-color: #31d0aa;
 }
+
 .footer-socials {
   display: flex;
   gap: 16px;
@@ -548,7 +550,7 @@ a {
   border-radius: 4px;
   padding: 8px 24px;
   min-width: 165px;
-  height: 40;
+  height: 40px;
   background-color: #4d5ae5;
   border: none;
 
