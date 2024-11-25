@@ -668,9 +668,17 @@ a {
 .modal-form {
   
 }
+
+
+
 .modal-form-field {
+  margin-bottom: 8px;
+}
+
+.field-textarea {
   margin-bottom: 16px;
 }
+
 .modal-form-label {
   display: block;
   margin-bottom: 4px;
